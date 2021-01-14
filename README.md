@@ -1,5 +1,5 @@
 # BaiTapLonCSDL
-Bài tập lớn cơ sở dữ liệu 
+Bài tập lớn cơ sở dữ liệu</br>
 Chức năng
 1. Login View</br>
 ![alt text](/Feature/Login.png)
@@ -13,10 +13,9 @@ Chức năng
 ![alt text](/Feature/ThemNhanVien.png)
 6. Project view</br>
 ![alt text](/Feature/Project.png)
-7. Thông bào View</br>
+7. Thông báo View</br>
 ![alt text](/Feature/ThongBao.png)
 8. Setting</br>
 ![alt text](/Feature/Setting.png)
-
-
-
+9. Chuyển file ảnh sang hashCode</br>
+![alt text](/Feature/ChuyenSangHashCode.png)
