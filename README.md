@@ -4,7 +4,7 @@ Chức năng
 1. Login View</br>
 ![alt text](/Feature/Login.png)
 1.1. Wellcome</br>
-![alt text](/Feature/Wellcome.png)
+![alt text](/Feature/wellcome.png)
 1.2. Error</br>
 ![alt text](/Feature/Error.png)
 2. Loading View</br>
