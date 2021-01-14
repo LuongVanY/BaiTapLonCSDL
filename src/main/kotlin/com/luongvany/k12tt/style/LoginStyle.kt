@@ -2,7 +2,6 @@ package com.luongvany.k12tt.style
 
 import javafx.scene.text.FontWeight
 import tornadofx.*
-import java.net.URI
 
 class LoginStyle: Stylesheet(){
     companion object{

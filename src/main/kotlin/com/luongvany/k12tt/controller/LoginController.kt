@@ -15,7 +15,7 @@ class LoginController : Controller(){
         if (isConnected()){
             disconnectCurrentDbs()
             information("Chào mừng đã trở lại chương trình")
-            createConnect("hallo")
+            createConnect(CurrentDatabase.User.databaseName)
             loginView.currentStage?.close()
             showProgress.openWindow(StageStyle.UNDECORATED)
         }

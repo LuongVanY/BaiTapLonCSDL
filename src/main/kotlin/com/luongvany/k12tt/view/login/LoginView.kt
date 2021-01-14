@@ -8,7 +8,7 @@ import javafx.scene.control.ProgressIndicator
 import javafx.scene.image.Image
 import tornadofx.*
 
-class LoginView : View("Login view") {
+class LoginView : View("Login") {
     override fun onDock() {
         currentStage?.isResizable = false
     }

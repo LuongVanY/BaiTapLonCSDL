@@ -2,9 +2,6 @@ package com.luongvany.k12tt.view.contact
 
 import com.luongvany.k12tt.controller.ContactController
 import com.luongvany.k12tt.model.StaffEntryModel
-import javafx.scene.Node
-import javafx.scene.image.ImageView
-import model.User
 import tornadofx.*
 
 class ContactList : View() {

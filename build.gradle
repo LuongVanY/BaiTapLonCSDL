@@ -14,7 +14,7 @@ repositories {
 }
 
 application {
-    mainClassName = "com.luongvany.k12tt.CRMApplication"
+    mainClassName = "com.luongvany.k12tt.Application"
     applicationDefaultJvmArgs = ['--add-opens=javafx.graphics/javafx.scene=ALL-UNNAMED']
 }
 

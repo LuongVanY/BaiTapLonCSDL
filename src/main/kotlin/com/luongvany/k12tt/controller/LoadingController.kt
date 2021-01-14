@@ -24,7 +24,7 @@ class LoadingController : Controller() {
         runAsync {
             for(i in mainController.listOfObject){
                 updateProgress((index), size)
-                updateMessage("Create table ${i.tableName}...")
+                updateMessage("Check ${i.tableName}...")
                 execute {
                     SchemaUtils.create(i)
                 }
