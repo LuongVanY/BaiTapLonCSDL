@@ -3,6 +3,10 @@ Bài tập lớn cơ sở dữ liệu</br>
 Chức năng
 1. Login View</br>
 ![alt text](/Feature/Login.png)
+1.1. Wellcome</br>
+![alt text](/Feature/Wellcome.png)
+1.2. Error</br>
+![alt text](/Feature/Error.png)
 2. Loading View</br>
 ![alt text](/Feature/loading.png)
 3. Main View</br>
